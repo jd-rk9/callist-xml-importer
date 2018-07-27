@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<callist class="xml" method="get">x/callist.csv</callist>
+<script>
+function MakeCall(): $x/Mobielnummer
+</script>
